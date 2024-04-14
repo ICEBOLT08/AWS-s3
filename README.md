@@ -66,4 +66,4 @@ Amazon Simple Storage Service (S3) is an object storage service offered by Amazo
 
 ### Output
 
-![Static Website](images/upload_files.png)
+![Static Website](https://github.com/ICEBOLT08/AWS-s3/blob/main/Screenshot%202024-04-15%20010416.png)
