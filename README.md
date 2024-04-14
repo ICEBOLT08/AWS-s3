@@ -38,7 +38,7 @@ Amazon Simple Storage Service (S3) is an object storage service offered by Amazo
    - Choose a region.
    - Click "Next."
 
-![Creating an S3 Bucket](images/create_bucket.png)
+![Creating an S3 Bucket](https://github.com/ICEBOLT08/AWS-s3/blob/main/Screenshot%202024-04-15%20005536.png)
 
 ### Configuring Bucket for Website Hosting
 
