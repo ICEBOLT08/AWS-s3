@@ -62,7 +62,7 @@ Amazon Simple Storage Service (S3) is an object storage service offered by Amazo
    - Drag and drop your website files or click "Add files" to select them.
    - Click "Upload."
 
-![Uploading Website Files](images/upload_files.png)
+![Uploading Website Files](https://github.com/ICEBOLT08/AWS-s3/blob/main/Screenshot%202024-04-15%20005650.png)
 
 ### Output
 
