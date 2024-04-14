@@ -52,7 +52,7 @@ Amazon Simple Storage Service (S3) is an object storage service offered by Amazo
    - Enter the name of your main HTML file (e.g., `index.html`) and the error document if you have one.
    - Click "Save changes."
 
-![Configure Bucket for Website Hosting](images/configure_website_hosting.png)
+![Configure Bucket for Website Hosting](https://github.com/ICEBOLT08/AWS-s3/blob/main/Screenshot%202024-04-15%20005924.png)
 
 ### Uploading Website Files
 
