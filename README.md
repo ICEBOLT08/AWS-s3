@@ -64,22 +64,6 @@ Amazon Simple Storage Service (S3) is an object storage service offered by Amazo
 
 ![Uploading Website Files](images/upload_files.png)
 
-### Setting Bucket Policy
+### Output
 
-1. **Configure Bucket Policy**:
-   - Still in the bucket's "Permissions" tab, click on "Bucket Policy."
-   - Paste the following policy, replacing `<Your-Bucket-Name>` with your actual bucket name:
-
-```json
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Sid": "PublicReadGetObject",
-      "Effect": "Allow",
-      "Principal": "*",
-      "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::<Your-Bucket-Name>/*"
-    }
-  ]
-}
+![Static Website](images/upload_files.png)
